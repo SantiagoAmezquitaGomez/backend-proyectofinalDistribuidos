@@ -3,3 +3,5 @@ uvicorn[standard]
 spacy
 python-multipart
 pymongo
+jose
+passlib.context
