@@ -4,4 +4,4 @@ spacy
 python-multipart
 pymongo
 jose
-passlib.context
+passlib
